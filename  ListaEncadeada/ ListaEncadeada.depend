@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670811050 source:d:\user\documents\ufrgs\2º semestre\estrutura de dados\ listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lse.h"
+
+1670811028 d:\user\documents\ufrgs\2º semestre\estrutura de dados\ listaencadeada\lse.h
+
