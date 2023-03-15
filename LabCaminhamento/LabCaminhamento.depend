@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678902709 source:c:\users\aluno\documents\estr\labcaminhamento\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1678902728 c:\users\aluno\documents\estr\labcaminhamento\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1678903495 source:c:\users\aluno\documents\estr\labcaminhamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
